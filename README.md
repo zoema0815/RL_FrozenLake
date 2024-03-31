@@ -1,6 +1,6 @@
-# FrozenLake MDP Assignment
+# FrozenLake MDP - Reinforcement Learning
 
-## Assignment Overview
+## Overview
 
 This class assignment focuses on solving problems with limited state spaces through the lens of the FrozenLake Markov Decision Process (MDP) problem. It is designed to 
 introduce and apply fundamental concepts of reinforcement learning, specifically Q-Learning and SARSA algorithms.
